@@ -1,6 +1,9 @@
 # 👋 Hi, I’m @AnastasiiaPirus
 # 💫 About Me:
-Working on making your dream designs come true.
+Ambitious and motivated React Front-End Developer.
+I have the skills to drive and create engaging and intuitive user experiences.
+
+Let's collaborate :)
 
 
 ## 🌐 Socials:

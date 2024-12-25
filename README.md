@@ -1,7 +1,7 @@
 # 👋 Hi, I’m @AnastasiiaPirus
 React Front-End Developer.
 
-Let's collaborate :)
+Let's collaborate :) 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasia-pirus) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a.pirus) 

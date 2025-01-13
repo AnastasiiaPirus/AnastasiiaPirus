@@ -6,7 +6,7 @@ Let's collaborate :)
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/anastasia-pirus) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@a.pirus) 
 
-✨ [My Website](https://www.pirus.dev) ✨
+✨ [My Website](https://www.pirus.dev) ✨ 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AnastasiiaPirus&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>

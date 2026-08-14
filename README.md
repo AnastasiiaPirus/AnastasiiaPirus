@@ -1,5 +1,5 @@
 # 👋 Hi, I’m @AnastasiiaPirus
-React Front-End Developer.
+Software Developer.
 
 Let's collaborate :)
 
@@ -8,9 +8,5 @@ Let's collaborate :)
 
 ✨ [My Website](https://www.pirus.dev) ✨ 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=AnastasiiaPirus&theme=bear&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=AnastasiiaPirus&theme=bear&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AnastasiiaPirus&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
